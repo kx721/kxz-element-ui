@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Kxz-Element',
   description: '仿制组件库:hammer:',
-  base: '/kxz-element/',
+  base: '/kxz-element-ui/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
